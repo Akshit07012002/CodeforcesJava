@@ -1,5 +1,4 @@
-package cp;
-
+package codeforcesJava.CodeforcesJava;
 import java.io.*;
 
 public class PrimeTest 

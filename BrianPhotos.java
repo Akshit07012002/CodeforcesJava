@@ -1,5 +1,4 @@
-package cp;
-
+package codeforcesJava.CodeforcesJava;
 import java.util.Scanner;
    public class BrianPhotos 
    {

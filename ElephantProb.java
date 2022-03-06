@@ -1,5 +1,5 @@
 
-package cp;
+package codeforcesJava.CodeforcesJava;
 
 import java.io.*;
 import java.util.*;
