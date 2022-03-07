@@ -1,11 +1,9 @@
 package codeforcesJava.CodeforcesJava;
 
-import java.io.IOException;
-
 public class Sample 
 {
-	public static void main(String []args)throws IOException
+	Sample()
 	{
-		System.out.println("Hello world");
+		System.out.println("Inside Constructor : Sample");
 	}
 }
